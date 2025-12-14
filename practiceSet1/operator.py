@@ -6,4 +6,3 @@ x = int(input("Enter a number: "))
 
 print("Square: ", pow(x, 2))
 print("Cube: ", pow(x, 3))
-
